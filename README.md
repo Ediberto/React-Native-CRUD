@@ -1,6 +1,6 @@
 # React-Native-CRUD
 O React-Native-CRUD é um aplicativo (CRUD), de cadastro de registros em uma tabela de um banco do MySQL. Este foi realizado com o objetivo de mostrar aos alunos da disciplina Programação para Dispositivos Móveis em Android, capacitando-os para que possam dar continuidade à implementação do projeto de extensão, usando em React-Native, usando Visual Studio Code, Node,js e um SGBD relacional MYSQL.
-link: https://lnkd.in/d7EXJMKY.
+link: https://medium.com/@programacaoedi/react-native-mysql-826d02e087ff.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
