@@ -1,6 +1,6 @@
-# EcoDriveApp
-O EcoDriveApp é um aplicativo que auxilia o usuário de veículos no momento em que necessita ir ao posto de gasolina para abastecer seu veículo, este aplicativo a escolha adequada para seu veículo, comparando o preço entre combustíveis, no qual ele te dirá qual combustível é o adequado para o seu veículo em relação ao preço, quanto para calcular o consumo de combustível do seu veículo (km/l). Esse foi um projeto desenvolvido para a primeira HackSprint da Comunidade DevSpace.
-
+# React-Native-CRUD
+O React-Native-CRUD é um aplicativo (CRUD), de cadastro de registros em uma tabela de um banco do MySQL. Este foi realizado com o objetivo de mostrar aos alunos da disciplina Programação para Dispositivos Móveis em Android, capacitando-os para que possam dar continuidade à implementação do projeto de extensão, usando em React-Native, usando Visual Studio Code, Node,js e um SGBD relacional MYSQL.
+link: https://lnkd.in/d7EXJMKY.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
@@ -30,7 +30,7 @@ O EcoDriveApp é um aplicativo que auxilia o usuário de veículos no momento em
 - Melhorar estilização do aplicativo, implementando mais regras de negócio com entradas de dados e geração de relatórios
 
 ## Author
-Ediberto Mariano da Silva (follow me on [Linkedin] (https://www.linkedin.com/in/ediberto-mariano-da-silva-238071118/)))
+Ediberto Mariano da Silva (follow me on [Linkedin] (https://www.linkedin.com/in/ediberto-mariano-da-silva-238071118/))
 
 ## License
 ```
