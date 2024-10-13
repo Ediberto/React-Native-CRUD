@@ -6,34 +6,37 @@ O EcoDriveApp é um aplicativo que auxilia o usuário de veículos no momento em
 <!-- You can add more screenshots here if you like -->
 <img src="/imagem/imagem01.png" width="260">&emsp;<img src="/imagem/imagem02.png" width="260">&emsp;<img src="/imagem/imagem03.png" width="260">&emsp;<img src="/imagem/imagem04.png" width="260">&emsp;
 
-
- hashtag#JavaSclipt, juntamente com a documentação, obedecendo um Roteiro de extensão, fornecido pela Universidade. Tecnologias utilizadas: hashtag#React-Native, hashtag#Visual Studio Code, hashtag#Node.js, Um Banco de dados (hashtag#Relacional ou hashtag#Não Relacional), hashtag#FrontEnd, hashtag#BackEnd, hashtag#bodyParser.json, hashtag#SQL, hashtag#db.connect, hashtag#React, hashtag#useState, hashtag#navigation, hashtag#View, hashtag#TextInput, hashtag#Button, hashtag#StyleSheet, hashtag#Text, hashtag#Image, hashtag#FlatList, hashtag#ScrollView, hashtag#axios, hashtag#StyleSheet.
-* Kotlin
-* Activity para host de telas
-* ViewGroup
-    * ConstraintLayout
+## Tecnologias
+* React-Native
+* Visual Studio Code
+* Node.js
+* MySQL
+* bodyParser.json
+* SQL
+* db.connect
+* useState
+* navigation
+* axios
 - Components de UI
-    - ImageView
-    - CheckBox
-    - TextView
-    - EditText
+    - View
+    - TextInput
     - Button
-- Toast para display de mensagens
-- Intent Explicita para abrir a segunda Activity
-- FindViewById para recuperar components de UI
-- String resource para concatenação de textos
-
-  ### TODO
-- Melhorar estilização do app e implementar mais funções
+    - StyleSheet
+    - Text
+    - Image
+    - FlatList
+    - ScrollView
+### TODO
+- Melhorar estilização do aplicativo, implementando mais regras de negócio com entradas de dados e geração de relatórios
 
 ## Author
-Ediberto Mariano da Silva (follow me on [Linkedin](linkedin.com/in/ezequiel-melo-silva-lopes-0b1b37183))
+Ediberto Mariano da Silva (follow me on [Linkedin] (https://www.linkedin.com/in/ediberto-mariano-da-silva-238071118/)))
 
 ## License
 ```
 The MIT License (MIT)
 
-Copyright (c) 2023 Ezequiel Melo Silva Lopes
+Copyright (c) 2024 Ediberto Mariano da Silva
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
