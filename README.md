@@ -5,6 +5,9 @@ O EcoDriveApp é um aplicativo que auxilia o usuário de veículos no momento em
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 <img src="/imagem/imagem01.png" width="260">&emsp;<img src="/imagem/imagem02.png" width="260">&emsp;<img src="/imagem/imagem03.png" width="260">&emsp;<img src="/imagem/imagem04.png" width="260">&emsp;
+
+
+ hashtag#JavaSclipt, juntamente com a documentação, obedecendo um Roteiro de extensão, fornecido pela Universidade. Tecnologias utilizadas: hashtag#React-Native, hashtag#Visual Studio Code, hashtag#Node.js, Um Banco de dados (hashtag#Relacional ou hashtag#Não Relacional), hashtag#FrontEnd, hashtag#BackEnd, hashtag#bodyParser.json, hashtag#SQL, hashtag#db.connect, hashtag#React, hashtag#useState, hashtag#navigation, hashtag#View, hashtag#TextInput, hashtag#Button, hashtag#StyleSheet, hashtag#Text, hashtag#Image, hashtag#FlatList, hashtag#ScrollView, hashtag#axios, hashtag#StyleSheet.
 * Kotlin
 * Activity para host de telas
 * ViewGroup
